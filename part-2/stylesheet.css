@@ -1,0 +1,16 @@
+body {
+    background-color: #ad1a1a;
+    display: flex;
+    text-align: center;
+
+}
+
+h1 {
+    background-color: greenyellow;
+    height: 50px;
+    font-size: x-large;
+    width: auto;
+    margin: auto;
+    text-align: center;
+    padding: auto;
+}
